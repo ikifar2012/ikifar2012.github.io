@@ -52,30 +52,13 @@ body {
 
 
 button {
+	color: white;
 	font: outline;
-	font-size: 16px;
-	font-variant: normal;
 	font-family: Arial, Helvetica, sans-serif;
-    color: white;
-    background-color: rgb(44, 44, 44); /* Green */
-	border: none;
-    padding: 16px 32px;
-    text-align: center;
-	text-decoration: none;
-	display: inline-block;
-    margin: 4px 2px;
-    -webkit-transition-duration: 0.4s; /* Safari */
-    transition-duration: 0.4s;
-    cursor: pointer;
 }
 
 h1 {
 	color: black;
-	font: outline;
-	font-family: Arial, Helvetica, sans-serif;
-}
-a {
-	color: white;
 	font: outline;
 	font-family: Arial, Helvetica, sans-serif;
 }
